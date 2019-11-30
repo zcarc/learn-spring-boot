@@ -13,3 +13,5 @@
 	1. start.spring.io 에서 생성
 	
 6. @SpringBootApplication 애노테이션이 붙은 패키지의 클래스 파일들의 빈들만 컴포넌트로 등록된다.
+
+7. 의존성 관리 설명
