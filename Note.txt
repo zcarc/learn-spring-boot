@@ -8,3 +8,6 @@
 	2. 패키징으로 생성된 jar 파일로 스프링 부트 실행
 		a. mvnw package *(windows) or mvn package *(mac)
 		b. java -jar target\spring-boot-getting-started-1.0-SNAPSHOT.jar
+		
+5. 스프링 부트 프로젝트 생성기
+	1. start.spring.io 에서 생성
